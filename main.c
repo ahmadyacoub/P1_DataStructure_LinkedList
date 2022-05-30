@@ -637,8 +637,10 @@ int main() {
                     } else {
                         passenger *temp = bus->pass->link;
                         while (temp != NULL) {
+                            appendPassenger(UN_Passengers, temp->travelerId,temp->travellingDate,temp->travellingTime,temp->from,temp->to);
                             deletePasseneger(bus->pass, temp->travelerId); // this is useless I think
                             deletePasseneger(ONB_Passengers, temp->travelerId);
+
 
                             temp = temp->link;
                         }
