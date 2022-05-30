@@ -1,0 +1,3 @@
+/Users/ahmadyacoub/CLionProjects/P1_1202450_AhmadJaghama_1.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ahmadyacoub/CLionProjects/P1_1202450_AhmadJaghama_1.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahmadyacoub/CLionProjects/P1_1202450_AhmadJaghama_1.c/cmake-build-debug/CMakeFiles/P1_1202450_AhmadJaghama_1_c.dir
