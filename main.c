@@ -112,7 +112,7 @@ void appendPassenger(passenger *head, char travelerId[200], char travellingDate[
 
 }
 
-// same as before but this is more fast and accurate  after getting the data from files
+//  same as before but this is more fast and accurate  after getting the data from files
 void appendPassengerToBus(passenger *head, int travelerId, int travellingDate, char travellingTime[], char from[],
                           char to[]) {
     passenger *new = (passenger *) malloc(sizeof(passenger));
